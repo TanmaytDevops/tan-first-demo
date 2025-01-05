@@ -3,6 +3,4 @@ This is my first first repo
 <br>
 <h1>this is me <br>tanmay thakur <h1>
 
-<h2>======== this edited from terminal <h2>
-
-<i> tanmay is learning git <i>
+<b> today is 6 jan 2025<b>

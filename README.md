@@ -5,3 +5,6 @@ This is my first first repo
 
 <h2>======== this edited from terminal <h2>
 
+<h3> this is tanmay <h3>
+
+<b> Tanmay thakur push <b>
